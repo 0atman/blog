@@ -1,3 +1,6 @@
+# My Take on HFR
+*(originally published on 07/01/2013)*
+
 I went to see the Hobbit again yesterday.
 
 The first time I saw it was in 24fps with active 3d glasses. Yesterday, however, we saw it in IMAX passive 3d, at the High Frame Rate of 48FPS.
