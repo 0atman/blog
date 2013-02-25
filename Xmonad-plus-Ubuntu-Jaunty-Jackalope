@@ -1,5 +1,7 @@
 Yesterday, after reading tombuntu.com’s article on Xmonad:
-“What good is having a large display if you’re constantly rearranging windows to fit them on the screen? I got tired of try to fit a web browser with other smaller windows and decided to try xmonad, a tiling window manager that could do this for me.”
+    What good is having a large display if you’re constantly rearranging windows to fit them on the screen?
+    I got tired of try to fit a web browser with other smaller windows and decided to try xmonad,
+    a tiling window manager that could do this for me.”
 I decided to give it a whirl. Having upgraded on release day to Ubuntu 9.04 “Jaunty Jackalope”, I was suffering a little from “early adopter-ism” in that I couldn’t find articles that showed me how to get it up and running.
 The articles that I had amassed (See my references at the bottom of the post) were good enough to allow me to install Xmonad as a new session in GDM, I could login, spawn a terminal and get up and running.
 sudo apt-get install xmonad
