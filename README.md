@@ -1,4 +1,1 @@
-blog
-====
-
-My github-powered blog
+See above for my posts.
