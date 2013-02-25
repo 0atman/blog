@@ -1,3 +1,5 @@
+# Xmonad Plus Ubuntu Jaunty Jackalope
+
 Yesterday, after reading tombuntu.com’s article on Xmonad:
 
     What good is having a large display if you’re constantly rearranging windows to fit them on the screen?
