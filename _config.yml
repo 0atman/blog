@@ -1,0 +1,5 @@
+safe: true
+source: posts
+destination: build 
+lsi: false
+pygments: true
